@@ -137,6 +137,9 @@ These are the services that Dionaea uses to attract attack(er)s.
 
 When going to the **Attacks** tab in the MHN console, we can see all the different IPs that are attacking the honeypot. We can see
 from which country it comes from, what open port they went through, and what kind of protocol they used to try to infiltrate the "server".
+The following show total attacks and such information from 3 days of this honeypot server being active. 
+<img width="960" alt="AttackStats" src="https://user-images.githubusercontent.com/93702960/167242900-b8f481db-201f-4475-9785-0899e6a8b96a.png">
+<img width="960" alt="AttackReport" src="https://user-images.githubusercontent.com/93702960/167242907-a4e8e17b-effe-4210-bc56-2a6a793f3a51.png">
 
 
 ### Database Backup
