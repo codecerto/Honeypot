@@ -145,8 +145,8 @@ The following show total attacks and such information from 3 days of this honeyp
 
 ### Database Backup
 
-**Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
-The Regional Database that MHN-Admin uses is 
+**Summary:** 
+The Regional Database that MHN-Admin uses is structured query language (SQL).
 The information that the exported JSON file records is a complex version of the Attacks Report that is available from the 
 MHN-Admin. It shows the IP, the type of protocol used to try to hack the honeypot server. 
 
