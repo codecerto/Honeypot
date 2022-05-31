@@ -145,9 +145,9 @@ from which country it comes from, what open port they went through, and what kin
 ### Database Backup
 
 **Summary:** 
-The Regional Database that MHN-Admin uses is structured query language (SQL).
+The Regional Database that MHN-Admin uses is a single admin VM which is used to deploy, manage and collect information from the honeypot(s), which are deployed as separate VMs. Hence why I had to setup 2 virtual machines for the honeypot to run; the single Admin VM and the Honeypot VM.
 The information that the exported JSON file records is a complex version of the Attacks Report that is available from the 
-MHN-Admin. It shows the IP, the type of protocol used to try to hack the honeypot server. 
+MHN-Admin. It shows the IP, the country where the attack came from, and the type of protocol used to try to hack the honeypot server. 
 
 **Uses of a Honeypot**
 
