@@ -164,6 +164,8 @@ being exploited, and more importantly what specific kind of attacks are occuring
 
 ## Notes
 
-There were no issues or too many challenges whilst creating and running the honeypot. 
+There were no issues or too many challenges whilst creating and running the honeypot.
+ 
+Hello GenCyber students, here is your flag: GC24{OSINT_IS_FUN}
 
 
